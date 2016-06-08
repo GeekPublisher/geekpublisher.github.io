@@ -116,6 +116,7 @@ a{
     font-family: sans-serif;
     font-size: 12px;
     word-wrap: break-word;
+    color: #fff;
 }
 
 .chatMessage small{
