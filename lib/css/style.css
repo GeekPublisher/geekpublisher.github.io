@@ -41,7 +41,7 @@ a{
     margin: 15px auto;
     width: 250px;
     height: 40px;
-    background: url(lib/img/logo_200px.png) no-repeat;
+    background: url(/lib/img/logo_200px.png) no-repeat;
 }
 
 #startNewGameButton, #connectButton, #cashoutButton, #playAgainButton{
